@@ -24,7 +24,8 @@ I build "second-brain" tools, AI agent ecosystems, and ultra-minimalist develope
 - [**Pixellens**](https://github.com/Nesb01t/pixellens) — *Build beyond blocks, 像素级完美的陈列室构建器。*
 - [**AshIris**](https://parallized.cn) — *代码、认知与生活狂想录博客。*
 - [**Runedra 知树**](https://rune.parallized.cn) — *人类知识学习极速加速启动器。*
-- [**OwOcaptain**](https://owo.parallized.cn) — *守望先锋地图 60 秒极速速查。* & [**WoW Magician**](https://wow.parallized.cn) — *魔兽世界公会 AI & MRT 战术板与排轴解法系统。*
+- [**OwOcaptain**](https://owo.parallized.cn) — *守望先锋地图 60 秒极速速查。*
+- [**WoW Magician**](https://wow.parallized.cn) — *魔兽世界公会 AI & MRT 战术板与排轴解法系统。*
 
 ---
 
