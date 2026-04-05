@@ -16,9 +16,9 @@ I build "second-brain" tools, AI agent ecosystems, and ultra-minimalist develope
 
 ---
 
-### 🚀 Highlighted Work
+### ⭐ Toys
 
-- [**maple**](https://github.com/parallized/maple) (⭐ 52) — *为 AI 编码独特设计的 SDD 视觉看板工作台。*
+- [**maple**](https://github.com/parallized/maple) — *为 AI 编码独特设计的 SDD 视觉看板工作台。*
 - [**Recall**](https://github.com/parallized/Recall) — *自生长任意领域知识闭环中枢，支持 MCP 与自动化 RAG 检索。*
 - [**human-disassembler**](https://github.com/parallized/human-disassembler) — *基于自我访谈理论的 100 问精神拆解与 AI 交互 Debug 系统。*
 - [**Syndicator**](https://github.com/parallized/Syndicator) — *智能简历引擎：根据外部 JD 自动“按需组合”出绝佳匹配简历。*
